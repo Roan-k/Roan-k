@@ -8,10 +8,10 @@
 This Github repository contains several (mini-) projects I have done throughout the past few months. I did these projects besides my masterstudy Big Data and AI solutions I am following, where I work on many more projects and cases (in more complexity), and am learning on various more data science topics. Feel free to ask me more about this.
 
 #### Content
-1. Digits Recognition - I developed some simple classifiers and apply feature reduction techniques on the well-known MNIST Digits dataset.
-2. Fake New Classifier - Using several NLP pre-processing techniques and different algorithms, I develop a classifier that recognizes fake news articles.
-3. Sales SQL exploration - Using SQLalchemy I perform EDA by querying data and joining two datasets.
-4. Other - several other smaller projects.
+1. Fake New Classifier - Using several NLP techniques and feature generation, I develop a classifier that recognizes fake news articles with high accuracy.
+3. Digits Recognition - I developed some simple classifiers and apply feature reduction techniques on the well-known MNIST Digits dataset.
+4. Sales SQL exploration - Using SQLalchemy I perform EDA by querying data and joining two datasets.
+5. Other - several other smaller projects.
 
 #### Coming soon
 As I am learning / have learned how to use Keras, PyTorch, Time-series Analysis, I will be adding projects covering these topics soon. More complex projects on NLP and Image recognition will follow as well.

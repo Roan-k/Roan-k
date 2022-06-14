@@ -9,9 +9,7 @@ This Github repository contains several (mini-) projects I have done throughout 
 
 #### Content
 1. Fake New Classifier - Using several NLP techniques and feature generation, I develop a classifier that recognizes fake news articles with high accuracy.
-3. Digits Recognition - I developed some simple classifiers and apply feature reduction techniques on the well-known MNIST Digits dataset.
-4. Sales SQL exploration - Using SQLalchemy I perform EDA by querying data and joining two datasets.
-5. Other - several other smaller projects.
+2. Sales SQL EDA - Using SQLalchemy, SQLite, I perform EDA by joining, grouping, and visualizing data, as well as testing certain hypotheses.
 
 #### Coming soon
 As I am learning / have learned how to use Keras, PyTorch, Time-series Analysis, I will be adding projects covering these topics soon. More complex projects on NLP and Image recognition will follow as well.

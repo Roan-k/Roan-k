@@ -12,6 +12,7 @@ This Github repository contains several (mini-) projects I have done throughout 
 2. Mobile game AB testing - Performing AB testing (hypothesis testing) to see whether two variations of a mobile game are different with statistical significance.
 3. Keras Simpsons Character Classifier (in progress): creating a CNN to classify images, apply data augmentation, regularization, and transfer learning.
 4. Sales SQL EDA - Using SQLalchemy, SQLite, I perform EDA by joining, grouping, and visualizing data, as well as testing certain hypotheses.
+5. EU Football SQL - Exploring data on EU football using SQL (more advanced SQL then 4.).
 
 #### Coming soon
 As I am learning / have learned how to use Keras, PyTorch, Time-series Analysis, I will be adding projects covering these topics soon. More complex projects on NLP and Image recognition will follow as well.
